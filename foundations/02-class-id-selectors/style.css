@@ -1,0 +1,20 @@
+/*Odd numbered are all p*/
+.main {
+    background-color: #f794c8;
+    font-family: "Verdana", "Deja-vu Sans", sans-serif;
+}
+
+.number3 {
+    font-size: 32px;
+}
+
+#number2 {
+    color: #6493de;
+    font-size:32px;
+}
+
+#number4{
+    background-color: #64de9f;
+    font-size: 24px;
+    font-weight: bold;
+}
